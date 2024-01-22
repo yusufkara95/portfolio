@@ -2,5 +2,5 @@
 
 Welcome to my personal portfolio! This repository showcases my skills, projects, and experiences.
 
-- Link: [Click for Live Demo](https://github.com/dein-benutzername/projekt1)
+- Link: [Click for Live Demo](https://iridescent-meerkat-5c07f8.netlify.app/)
 
